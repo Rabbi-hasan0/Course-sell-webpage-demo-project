@@ -1,0 +1,197 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    min-height: 10vh;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+  /* home.css */
+body {
+  height: 30vh;
+  /*background-image: url("s6.png");*/
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  width: 100%;
+  height: 80vh;
+  margin: 1px 0;
+  padding: 1rem 0;
+}
+
+  header h1 {
+    border-top-style:none;
+    margin: 0;
+    padding: 2rem;
+  }
+
+  nav {
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #099466;
+    color: #fff;
+    padding: 1rem 0em;
+    min-height: 10vh;
+    width: 100%;
+    font-family:papyrus;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    left: 0;
+  }
+  html{
+    margin-top: -18px;
+  }
+  main{
+    margin-left: 1%;
+  }
+  ul{
+    padding: 2rem 1;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+li{
+  padding: 0.2rem 0;
+}
+  footer {
+    min-height: 5vh;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    font-size: 1em;
+  }
+  
+  .course-section {
+    padding: 1em;
+    background-color: #fff;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2em;
+  }
+  
+  .course-section h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+  }
+  
+  .course-section p {
+    font-size: 0.9em;
+    color: #333;
+    margin-bottom: 0.5em;
+  }
+  .enrollment-section {
+    padding: 100px;
+    text-align: center;
+  }
+  h2{
+    padding: 2rem 0;
+  }
+  
+  .enrollment-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+  }
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    box-sizing: border-box;
+  }
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  .form-message {
+    margin-top: 25px;
+    font-size: 14px;
+  }
+  
+  .form-message a {
+    color: blue;
+    padding: 10%;
+  }
+  
+  .btn{
+    border: none;
+    padding: 2rem 0;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition:all;
+    color: #044e06;
+}
+  
+
+
+  /*nav upper starts here*/
+nav{
+  
+  
+  
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
